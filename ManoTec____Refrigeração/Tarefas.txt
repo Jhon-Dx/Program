@@ -1,0 +1,46 @@
+Melhorar Codigo >>>>>>>>>>>>>>>>>
+	classe dos Botãoes 		            pronto
+	classe dos Radio botoes	 		    pronto
+	classe de  desgn
+	
+	Função subtrair                     pronto
+	Concertar o desgn
+	
+FUNÇÔES >>>>>>>>>>>>>>>>>>>>
+	Função de Nova Compra 						pronto
+
+	Função de data 							    pronto
+
+	Função de hora							    pronto
+
+	Função de inserir							pronto
+		quando adicionar um item quantidade ir pra 1
+
+	Função de remover						    pronto
+
+	Função de calcular os preços				pronto
+
+	Função de calcular o total					pronto
+
+	Função do parcelamento do cartão			pronto
+	
+		
+	Função de Finalizar obter todos os dados
+		pegar todos os dados e salvar no arquivo		
+		
+Tratamento de Erros >>>>>>>>>>>>>>>>>>>>>>>
+	se esta vazio 
+	
+	se é str ou int ou float
+	
+	se falta algum campo a ser preenchido
+
+Finalização >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>			
+	Criar Pagina de Login	
+	
+	Criar um relatorio do mes tal e salvar em tal lugar 
+	
+	Criar um VENV com as Bibliotecas	
+	
+	Criar Programa executavel
+
